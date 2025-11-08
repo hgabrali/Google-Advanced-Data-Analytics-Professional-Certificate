@@ -130,3 +130,73 @@ Metrikler, sadece ham veriler (**facts**) değil, bu ham verilerden türetilmiş
 | :--- | :--- |
 | **Ham Veri (Fact)** | Bir web sitesine gelen günlük ziyaretçi sayısı. |
 | **Metrik** | **Dönüşüm Oranı (Conversion Rate)** = (Satın alma yapan ziyaretçi sayısı / Toplam ziyaretçi sayısı) &times; 100. |
+
+## 📚 Course 1, Module 1: Temel Terimler ve Tanımlar
+
+| Kavram | Açıklama |
+| :--- | :--- |
+| 🧑‍💻 **Data professional (Veri Profesyoneli)** | Veriyle çalışan ve/veya veri becerilerine sahip herhangi bir kişi. |
+| 🔬 **Data science (Veri Bilimi)** | Veriyi kullanışlı hale getirme disiplini. |
+| 🛡️ **Data stewardship (Veri Yönetimi)** | Bir kuruluşun verinin erişilebilir, kullanılabilir ve güvenli olmasını sağlayan uygulamaları. |
+| 🌐 **Edge computing (Uç Bilişim)** | Hız ve esneklik için iyi olan ve tek bir hesaplama kaynağına bağlı olmayan, hesaplama görevlerini bir grup yakındaki işlemciye (yani, bilgisayarlara) dağıtma yöntemidir. |
+| 📓 **Jupyter Notebook** | Canlı kod, denklemler, görselleştirmeler ve anlatı metinleri içeren belgeler oluşturmak ve paylaşmak için kullanılan açık kaynaklı bir web uygulaması. |
+| 🤖 **Machine learning (Makine Öğrenimi)** | Bilgisayar sistemlerine verideki örüntüleri analiz etmeyi öğretmek için algoritmaların ve istatistiksel modellerin kullanılması ve geliştirilmesi. |
+| 📉 **Metrics (Metrikler)** | Veriyi değerlendirmek için kullanılan yöntemler ve kriterler. |
+| 🐍 **Python** | Genel amaçlı bir programlama dili. |
+
+## 👥 Data Professional Roles Overview: A Career Map
+
+| Role Category | 🎯 Key Focus (What They Do) | 🛠️ Methods (How They Do It) | 💼 Sample Job Titles |
+| :--- | :--- | :--- | :--- |
+| 📊 **Data Scientist & Data Analyst** | Uncover **trends, patterns, and insights** from data. These roles gather, clean, analyze, and share insights with stakeholders. | Employ **advanced modeling** and **statistical analytics** techniques. | Data Scientist, Marketing Analyst, Data Analyst, AI Analyst, Business Analyst. |
+| ⚙️ **Data Management & Infrastructure** | Manage **data sources** and the overall **data infrastructure**. Ensure functionality of data systems and compliance with security/ethics regulations. | Work with the **tools and databases** used to manage data within a business. | Data Engineer, Technology Engineer, Data Manager, Data Steward, IT Architect. |
+| 📈 **Business Intelligence (BI)** | Perform **predictive analysis** that enables organizations to determine likely future trends. Focus is on transforming relevant data into accessible channels. | Create **tables, reports, and dashboards** that empower stakeholders and inform the entire decision-making process continually. | BI Architect, BI Analyst, BI Solution Developer, BI Software Engineer, Data Viz & BI Analyst. |
+| 💡 **Product Development Teams** | Manage **analytical strategy** within a project team. Manage a portfolio of customer and stakeholder analytic projects. | Less hands-on with data analysis, serving as the person a Data Scientist or Analyst would **report to** (management role). | Product Manager, Product Developer, Product Lead, Digital Product Manager, Customer Product Manager. |
+| 👑 **C-Suite (Executives)** | Responsible for **data and data professionals** across an entire organization. Build data-driven decision-making into top-level processes. | They are **decision makers** found at the top end of a company’s hierarchy. | Chief Marketing Officer (CMO), Chief Data Officer (CDO), Chief Analytics Officer (CAO), Chief Information Officer (CIO), Chief Data Scientist. |
+
+---
+
+### Key Takeaways
+
+* The data professional space is vast, offering a **wide variety of roles and responsibilities**.
+* Understanding these roles helps inform your **job search** and clarifies company expectations.
+* The trend is toward high-ranking executives (**C-suite**) being familiar with data and analytics to ensure **data-driven decision-making**.
+
+* ## 🚀 Where Data Makes a Difference: Industries & Future Trends
+
+---
+
+### 🌐 Part 1: Industries Leveraging Data Analytics
+
+| Industry | 📜 Overview | 📈 How Data Is Used |
+| :--- | :--- | :--- |
+| 📱 **App-driven business (Sharing Economy)** | Facilitates users acquiring, providing, or sharing access to goods and services, often through online or app-based communities. | Maintaining functioning mobile applications; Delivering customized content (e.g., discounts) based on user history; Using machine learning models to send notifications at key times or even locations. |
+| 🚗 **Automotive** | Includes industries associated with the production, wholesaling, retailing, and maintenance of motor vehicles. | Gaining greater control over their supply chains; Improving production line performance; Designing new and more efficient vehicles; Enhancing vehicle safety and new features. |
+| 🔒 **Cybersecurity** | Protects networks, devices, and data from unauthorized access or criminal use; maintaining confidentiality, integrity, and availability of information. | Locating weak points within networks and systems using predictive analytics; Defending against security attacks; Detecting data breaches through logic, models, and data tools; Improving the ability to identify attacks and respond to them with Artificial Intelligence (AI). |
+| 📣 **Digital Marketing** | Assists in advertising and promotional efforts of companies using the internet and online technologies. | Translating customer interaction into actionable business data; Predicting user behaviors to personalize content and offers; Identifying patterns and trends that guide innovations; Determining the return on investment (ROI) of marketing efforts. |
+| ⚡ **Energy** | Includes companies that explore, produce, refine, market, store, and transport both renewable and non-renewable energy resources. | Analyzing real-time data from power systems and monitoring devices; Optimizing technologies, monitoring power grids, and predicting failures; Preventing accidents and malfunctions. |
+| 🎮 **Gaming** | Hosts an estimated 2.7 billion gamers worldwide, facilitating the interaction of players across the globe. | Designing world-building and character creation systems; Monitoring character engagement and how the environment reacts to player input; Optimizing game-play by identifying potential new features or upgrades; Regulating in-game purchases and fraud detection systems; Personalizing marketing campaigns. |
+| 🎬 **Streaming Media & Entertainment** | Provides access to live and recorded content on-demand, delivered via the internet to computers, smart devices, and mobile devices. | Analyzing and monitoring user interactions to better understand customer sentiment; Matching users with advertisers with real-time analytics; Guiding future content decisions; Personalizing marketing campaigns. |
+| 📞 **Telecommunications** | Primarily involves operating and providing access to facilities for the transmission of voice, data, text, sound, and video. | Assisting the deployment, optimization, and predictive maintenance of telecommunications networks; Optimizing pricing models; Targeting advertisement and incentive campaigns, as well as detecting fraudulent activity; Analyzing customer data to customize subscriber plans. |
+| 🗺️ **Travel and Tourism** | Encompasses a variety of services from transportation, accommodations, attractions, booking, and much more. | Marketing to individuals based on their previous travel or searched destinations; Directing machine learning systems that can adjust a traveler’s itinerary based on set factors (e.g., weather and availability); Generating recommendations based on personal preferences and location-based discounts; Managing reservations and processing transactions. |
+
+---
+
+### 🔮 Part 2: Data Trends for the Future
+
+| Concept | 💡 Key Trend / Innovation | 🔄 Impact on the Field |
+| :--- | :--- | :--- |
+| **Data Volume & Demand** | **Big data is getting bigger**; the need to understand, prioritize, manage, and analyze information is not slowing down in any industry. | Businesses will continue to rely on **data-driven decision-making**, fueled by simple trend analyses and complex techniques (predictive modeling, forecasting). |
+| **Data Repositories** | More companies are storing **all of their raw data** within large repositories accessible across the organization. | Creates opportunities for data professionals to use skills to **organize information and make it useful**. |
+| **Artificial Intelligence (AI)** | AI will continue to have a large impact on business, helping to streamline many areas. | Helps companies ensure warehouse supply, keep items in stock, reduce delivery time, and **boost operational efficiency** through automating processes. |
+| **Personalization** | AI will combine with machine learning, business intelligence, and automation to deliver **more personalized services to customers**. | Pushes forward innovation, bringing computer applications and stored data sources **physically closer together**. |
+| **💻 Edge Computing** | Bringing computer applications and the sources of stored data closer together physically to **close the gap between data and computation**. | **Speed improves**, resulting in greater support of **real-time analytics** and automation necessary to support the increasing number of devices linked through the **Internet of Things (IoT)**. |
+| **Automation** | An increasing number of data analytics tasks will be **automated** by creating, managing, and analyzing data in edge environments. | Requires data professionals to focus on the **equity and inclusiveness** of the systems they create and train. |
+
+---
+
+### Key Takeaways for Data Professionals
+
+* You must **stay up-to-date** with the latest trends and technologies across different industries.
+* The certainty of the future is that an **increasing amount of data** will be generated, and **new systems and innovations** will continue to be developed.
+* This presents a constant opportunity for data professionals to **learn, grow, and develop new skills**.
