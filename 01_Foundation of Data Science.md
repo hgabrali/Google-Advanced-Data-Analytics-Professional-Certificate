@@ -200,3 +200,28 @@ Metrikler, sadece ham veriler (**facts**) değil, bu ham verilerden türetilmiş
 * You must **stay up-to-date** with the latest trends and technologies across different industries.
 * The certainty of the future is that an **increasing amount of data** will be generated, and **new systems and innovations** will continue to be developed.
 * This presents a constant opportunity for data professionals to **learn, grow, and develop new skills**.
+
+
+# 📚 Veri Bilimi ve Analitik Terimleri Sözlüğü
+
+Bu tablo, Veri Bilimi ve Analitik alanındaki temel terimleri ve tanımlarını organize etmektedir.
+
+| Terim (İngilizce) | 💡 Açıklama (İngilizce) |
+| :--- | :--- |
+| **Aggregate information** | Data from a significant number of users that has eliminated personal information. |
+| **Artificial intelligence (AI)** | Refers to computer systems able to perform tasks that normally require human intelligence. |
+| **Data anonymization** | The process of protecting people's private or sensitive data by eliminating PII. |
+| **Data professional** | Any individual who works with data and/or has data skills. |
+| **Data science** | The discipline of making data useful. |
+| **Data stewardship** | The practices of an organization that ensure that data is accessible, usable, and safe. |
+| **Edge computing** | A way of distributing computational tasks over a bunch of nearby processors (i.e., computers) that is good for speed and resiliency and does not depend on a single source of computational power. |
+| **Hackathon** | An event where programmers and data professionals come together and work on a project. |
+| **Jupyter Notebook** | An open-source web application used to create and share documents that contain live code, equations, visualizations, and narrative text. |
+| **Machine learning** | The use and development of algorithms and statistical models to teach computer systems to analyze patterns in data. |
+| **Metrics** | Methods and criteria used to evaluate data. |
+| **Nonprofit** | A group organized for purposes other than generating profit; often aims to further a social cause or provide a benefit to the public. |
+| **Open data** | Data that is available to the public and free to use, with guidance on how to navigate the datasets and acknowledge the source. |
+| **Personally identifiable information (PII)** | Information that permits the identity of an individual to be inferred by either direct or indirect means. |
+| **Python** | A general-purpose programming language. |
+| **Sample** | A segment of a population, often used to infer parameters of the whole population. |
+| **Tableau** | A business intelligence and analytics platform that helps people visualize, understand, and make decisions with data. |
