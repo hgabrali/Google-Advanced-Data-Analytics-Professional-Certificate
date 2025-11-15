@@ -239,3 +239,44 @@ This table outlines the core tools and skills necessary for data professionals, 
 | **Programming Languages** 💻 | A system of words and symbols used to write instructions that computers follow. | * SQL<br>* R<br>* Python<br>* Java<br>* C++ | * Communicate with computer systems<br>* Write and input commands<br>* Manage datasets<br>* Data manipulation<br>* Data analysis |
 | **Data Visualization** 📈 | The graphical representation of data. | * Tableau<br>* matplotlib<br>* Seaborn<br>* Google Charts<br>* Infogram<br>* Chartricks | * Communicate data insights<br>* Design compelling visuals<br>* Identify key metrics |
 | **Dashboards** ⏱️ | A tool that monitors live, incoming data. | * Tableau<br>* LookerStudio<br>* Microsoft Power BI | * Communicate data insights<br>* Monitor real-time data<br>* Develop data visualizations<br>* Design filters and custom calculations |
+
+# 🚀 Useful Prompts for Data Science Workflows
+
+Large Language Models (LLMs) are becoming powerful tools to automate and enhance various stages of the data science process. Here are some examples of how LLMs can be utilized:
+
+| Workflow Stage 🛠️ | LLM Capability & Description | Example Prompt Usage |
+| :--- | :--- | :--- |
+| **Data Cleaning** 🧹 | LLMs can automate tasks such as data cleaning and coding. | "For example, you can ask an LLM to clean a dataset by removing missing values, outliers, and duplicate data." |
+| **Exploratory Data Analysis (EDA)** 🔍 | LLMs can perform exploratory data analysis (EDA) on datasets. | "For example, you can ask an LLM to create data visualizations, identify patterns and trends, and calculate summary statistics." |
+| **Modeling** 🤖 | LLMs can build and evaluate models. | "For example, you can ask an LLM to build a machine learning model to predict an outcome, and evaluate the performance of the model." |
+| **Interpreting Results** 🧠 | LLMs can interpret the results of models. | "For example, you can ask an LLM to explain the features that are most important for a model, or generate insights from the results of a model." |
+| **Collaboration** 🤝 | LLMs can help you collaborate with teammates. | "For example, you can ask an LLM to create a shared document for a brainstorming session with a team of data professionals." |
+
+
+# ✍️ Best Practices for Writing Effective LLM Prompts
+
+Crafting high-quality prompts is essential to getting the most accurate and useful responses from Large Language Models (LLMs). Follow these best practices to optimize your data science workflows:
+
+---
+
+## General Prompting Guidelines
+
+| Guideline ✨ | Description | Why It Matters |
+| :--- | :--- | :--- |
+| **Be Clear and Concise** | It is important to be clear and concise in your instructions so the LLM can understand how to help you. Details are great—just make sure they’re useful and relevant. Avoid giving the LLM unnecessary information. | Clarity minimizes misunderstanding and generates relevant output. |
+| **Be Precise** | When posing a question to an LLM, be precise about the input (if any) and the desired output. | Specificity ensures the LLM focuses on the exact task and delivers the required format (e.g., Python code, JSON, or plain text). |
+| **Include a Role Description** | Include a description of the LLM’s role. This reinforces the purpose of your prompt. | Framing the LLM as an expert (e.g., "Act as a data scientist") influences the **tone, vocabulary, and relevance** of the generated response. |
+| **Provide Context** | Providing context allows the LLM to understand the nuances of the relevant issue and generate more informed responses. | Context helps the model avoid generic answers and tailor its output to your specific scenario. |
+| **Try Multiple Prompts** | Trying different prompts can provide different perspectives on a problem and enable the LLM to generate a variety of useful responses. | Testing variations helps you converge on the most effective instruction set for complex tasks. |
+
+---
+
+## Specific Prompt Examples for Data Professionals 📊
+
+| Example Prompt | LLM's Role | Core Task |
+| :--- | :--- | :--- |
+| **"Act as a data scientist and write a detailed plan for a credit card fraud detection project.”** | Data Scientist | Project planning and strategy. |
+| **“I have a dataset of customer purchases at an online retail store. Act as a data scientist and write Python code for data visualization and exploration.”** | Data Scientist | Exploratory data analysis (EDA) and code generation. |
+| **“I have a dataset of customer characteristics and churn for an online video streaming service. Act as a data scientist and create a shared document for a team meeting.”** | Data Scientist | Team collaboration and documentation structure. |
+| **“Act as a data generator and use Python code to generate a CSV file that contains mock employee data for a restaurant chain named Fast. The dataset has 100 rows and 5 columns. The columns are name, address, employee\_id, department\_id, email.”** | Data Generator | Mock data creation and synthetic dataset generation. |
+| **“Act as a communications expert and share best practices for explaining a data science report to a business executive with no technical background.”** | Communications Expert | Translating complex technical findings into business insights. |
