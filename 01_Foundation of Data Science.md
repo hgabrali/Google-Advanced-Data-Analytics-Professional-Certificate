@@ -315,3 +315,31 @@ It’s crucial to remember that Gemini and other LLMs are not infallible. As a d
 | **Expertise** | Gemini is not an expert in any particular field. It does not have the same level of understanding as an experienced human data professional. |
 | **Reasoning** | Gemini cannot fully explain its reasoning (why it’s doing what it’s doing), which can make it difficult to fully trust its results without verification. |
 | **Bias** | As an LLM, Gemini is trained on a massive dataset of text and code, and it is likely to reflect the biases that are present in that dataset. |
+
+
+# 🧑‍💻 Essential Data Team Roles and Terms
+
+This table provides key terms and definitions frequently used in data professions, covering roles, core concepts, and collaboration tools.
+
+---
+
+## Data Roles and Leadership 👑
+
+| Term 👤 | Definition | Key Responsibility |
+| :--- | :--- | :--- |
+| **Chief Data Officer (CDO)** | An executive-level data professional who is responsible for the consistency, accuracy, relevancy, interpretability, and reliability of the data a team provides. | Data quality and reliability at the executive level. |
+| **Analytics Team Manager** | A data professional who supervises analytical strategy for an organization, often managing multiple groups. | Analytical strategy and team oversight. |
+| **Data Scientist** | A data professional who works closely with analytics to provide meaningful insights that help improve current business operations. | Generating meaningful insights for business improvement. |
+| **Data Engineer** | A data professional who makes data accessible, ensures data ecosystems offer reliable results, and manages infrastructure for data across enterprises. | Data accessibility and infrastructure management. |
+| **Business Intelligence Engineer (or Analyst)** | A data professional who uses their knowledge of business trends and databases to organize information and make it accessible; also referred to as a Business Intelligence Analyst. | Organizing and visualizing business data. |
+
+---
+
+## Core Concepts and Collaboration Tools 🤝
+
+| Term 🧠 | Definition | Context |
+| :--- | :--- | :--- |
+| **Data Cleaning** 🧼 | The process of formatting data and removing unwanted material. | Ensuring data quality and usability. |
+| **Active Listening** | Refers to allowing team members, leadership, and other collaborative stakeholders to share their own points of view before offering responses. | Effective communication and collaboration. |
+| **Interpersonal Skills** | Traits that focus on communicating and building relationships. | Team dynamics and stakeholder management. |
+| **RACI Chart** 📝 | A visual that helps to define roles and responsibilities for individuals or teams to ensure work gets done efficiently; lists who is **R**esponsible, **A**ccountable, **C**onsulted, and **I**nformed for project tasks. | Project management and efficiency. |
