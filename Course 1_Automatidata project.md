@@ -102,3 +102,77 @@ The New York City Taxi and Limousine Commission (TLC) has partnered with Automat
 | **Model Validation** | Model Building | Construct / Execute | Udo Bankole |
 | **Create Visualizations** | Presentation | Execute | Titus Nelson |
 | **Final Executive Presentation** | Presentation | Execute | Uli King |
+
+---
+---
+# PACE Strategy Document: TikTok Claims Classification Project
+
+## 1. Project Questions & Considerations
+
+**Q: What is the business task?**
+* **Answer:** The goal is to develop a machine learning model to classify video content as either a "claim" or an "opinion." This will assist TikTok moderators in processing user reports more efficiently and reducing the backlog.
+
+**Q: Who are the stakeholders?**
+* **Answer:**
+    * **Data Team:** Willow Jaffey (Data Science Lead), Rosie Mae Bradshaw (Data Science Manager), Orion Rainier (Data Scientist).
+    * **Cross-functional Team:** Mary Joanna Rodgers (Project Management Officer), Margery Adebowale (Finance Lead), Maika Abadi (Operations Lead).
+
+**Q: What are the deliverables?**
+* **Answer:**
+    * A project proposal (Global document).
+    * Exploratory Data Analysis (EDA) report.
+    * A machine learning classification model.
+    * Visualizations for executives.
+    * Final presentation with key insights.
+
+## 2. PACE Workflow (Classifying Tasks)
+
+| Task Description | PACE Stage | Explanation |
+| :--- | :--- | :--- |
+| **Draft Project Proposal** | **Plan** | Involves defining scope, goals, and timeline before starting. |
+| **Set up Python Environment** | **Plan** | Preparing the necessary tools for analysis. |
+| **Inspect Data for Missing Values** | **Analyze** | Understanding the data quality is part of the analysis phase. |
+| **Exploratory Data Analysis (EDA)** | **Analyze** | Investigating the data to find patterns and useful features. |
+| **Determine Hypothesis Testing Method** | **Analyze** | Deciding how to statistically test the data relationships. |
+| **Select Regression/Classification Model** | **Construct** | Choosing the right algorithm for building the model. |
+| **Build Machine Learning Model** | **Construct** | The actual coding and training of the predictive model. |
+| **Check Model Assumptions** | **Construct** | Verifying that the model works correctly and is unbiased. |
+| **Generate Visuals for Executives** | **Execute** | Creating final outputs to communicate results. |
+| **Present to Leadership Team** | **Execute** | Sharing the insights and solutions with stakeholders. |
+
+
+## Project Proposal
+
+<img width="807" height="599" alt="image" src="https://github.com/user-attachments/assets/e752fc7b-4b5f-494d-b813-0e54a2ff2a7c" />
+
+# Project Proposal: TikTok Claims Classification
+
+**Project Title:** Machine Learning Model for Claim vs. Opinion Classification
+**Prepared By:** [Your Name], Data Analyst
+**Status:** Draft
+
+## Project Overview
+TikTok’s Trust & Safety team is facing a challenge with the high volume of user reports on videos. Currently, moderators cannot review every video in a timely manner. The goal of this project is to develop a **machine learning model** that can reliably classify user interaction data as either a **"claim"** or an **"opinion."** This will allow for automated prioritization, reducing the backlog and improving the efficiency of the moderation process.
+
+## Project Tasks & Milestones
+
+The following table outlines the project workflow, aligning tasks with milestones, PACE stages, and relevant stakeholders.
+
+| Order | Task Description | Milestone | PACE Stage(s) | Relevant Stakeholder |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Create Project Proposal** <br> *Draft a global document outlining deliverables and timeline.* | **Planning** | **Plan** | **Mary Joanna Rodgers** <br> *(PMO)* |
+| **2** | **Set up Python Environment** <br> *Prepare the coding environment for the team.* | **Planning** | **Plan** | **Rosie Mae Bradshaw** <br> *(Manager)* |
+| **3** | **Data Inspection** <br> *Check dataset for missing values and integrity.* | **Analysis** | **Analyze** | **Orion Rainier** <br> *(Data Scientist)* |
+| **4** | **Exploratory Data Analysis (EDA)** <br> *Determine useful information within the data.* | **Analysis** | **Analyze** | **Orion Rainier** |
+| **5** | **Determine Hypothesis Testing** <br> *Select the best method for statistical testing.* | **Analysis** | **Analyze** | **Willow Jaffey** <br> *(Data Science Lead)* |
+| **6** | **Determine Model Type** <br> *Decide on the regression/classification model to use.* | **Model Building** | **Construct** | **Willow Jaffey** |
+| **7** | **Build & Train Model** <br> *Develop the machine learning model.* | **Model Building** | **Construct** | **Data Team** |
+| **8** | **Check Model Assumptions** <br> *Verify model reliability and bias.* | **Model Building** | **Construct** | **Rosie Mae Bradshaw** |
+| **9** | **Generate Visualizations** <br> *Create visuals to share with TikTok executives.* | **Presentation** | **Execute** | **Mary Joanna Rodgers** |
+| **10** | **Final Presentation** <br> *Present main talking points and model results to leadership.* | **Presentation** | **Execute** | **Willow Jaffey** |
+
+## Key Stakeholders
+* **Internal (Data Team):** Willow Jaffey, Rosie Mae Bradshaw, Orion Rainier.
+* **Cross-functional:** Mary Joanna Rodgers, Margery Adebowale, Maika Abadi.
+
+
