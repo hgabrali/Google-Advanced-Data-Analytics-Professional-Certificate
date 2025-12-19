@@ -1099,3 +1099,117 @@ Aşağıdaki cevaplar, PACE modelinin aşamalarını ve iletişim stratejilerini
 1.  **Yapılandırılmış Yaklaşım:** Proje teklifleri (Project Proposals), PACE çerçevesini kullanarak belirsizliği azaltır ve kilometre taşlarını (milestones) netleştirir.
 2.  **Hedef Odaklılık:** İyi bir teklif, "Neden yapıyoruz?" sorusuna net bir cevap verir (Örn: %90 doğruluk ile arıza tahmini).
 3.  **İletişim:** Teknik detaylar (Construct aşaması) ile iş sonuçları (Execute aşaması) arasındaki dengeyi kurmak, proje başarısı için kritiktir.
+
+
+# Data Analytics Glossary & PACE Framework
+
+This document contains key terms and definitions related to data analytics, specifically focusing on the PACE workflow and foundational concepts.
+
+> **Note:** Terms are provided in **English** with their **(Turkish)** equivalents.
+
+## 📌 PACE Workflow (PACE İş Akışı)
+
+**PACE workflow (PACE İş Akışı)**
+A framework that provides an initial structure to guide the process of data analytics; PACE stands for **P**lan, **A**nalyze, **C**onstruct, and **E**xecute.
+
+* **Plan stage (Planlama Aşaması)**
+    Stage of the PACE workflow where the scope of a project is defined and the informational needs of the organization are identified.
+
+* **Analyze stage (Analiz Aşaması)**
+    Stage of the PACE workflow where the necessary data is acquired from primary and secondary sources and then cleaned, reorganized, and analyzed.
+
+* **Construct stage (İnşa Etme / Oluşturma Aşaması)**
+    Stage of the PACE workflow where data models and machine learning algorithms are built, interpreted, and revised to uncover relationships within the data and help unlock insights from those relationships.
+
+* **Execute stage (Uygulama Aşaması)**
+    Stage of the PACE workflow where a data professional will present findings with internal and external stakeholders, answer questions, consider different viewpoints, and make recommendations.
+
+---
+
+## 📚 General Terms & Definitions (Genel Terimler ve Tanımlar)
+
+### A
+* **Active listening (Aktif Dinleme)**
+    Refers to allowing team members, bosses, and other collaborative stakeholders to share their own points of view before offering responses.
+* **Aggregate information (Toplu / Kümülatif Bilgi)**
+    Data from a significant number of users that has eliminated personal information.
+* **Analytics Team Manager (Analitik Ekip Yöneticisi)**
+    A data professional who supervises analytical strategy for an organization, often managing multiple groups.
+* **Artificial intelligence (AI) (Yapay Zeka)**
+    Refers to computer systems able to perform tasks that normally require human intelligence.
+
+### B
+* **Business Intelligence Analyst (İş Zekası Analisti)**
+    (Refer to Business Intelligence Engineer).
+* **Business Intelligence Engineer (İş Zekası Mühendisi)**
+    A data professional who uses their knowledge of business trends and databases to organize information and make it accessible; also referred to as a Business Intelligence Analyst.
+
+### C
+* **Chief Data Officer (Veri İşleri Müdürü / CDO)**
+    An executive-level data professional who is responsible for the consistency, accuracy, relevancy, interpretability, and reliability of the data a team provides.
+
+### D
+* **Data anonymization (Veri Anonimleştirme)**
+    The process of protecting people's private or sensitive data by eliminating Personally Identifiable Information (PII).
+* **Data cleaning (Veri Temizleme)**
+    The process of formatting data and removing unwanted material.
+* **Data Engineer (Veri Mühendisi)**
+    A data professional who makes data accessible, ensures data ecosystems offer reliable results, and manages infrastructure for data across enterprises.
+* **Data professional (Veri Uzmanı)**
+    Any individual who works with data and/or has data skills.
+* **Data science (Veri Bilimi)**
+    The discipline of making data useful.
+* **Data Scientist (Veri Bilimcisi)**
+    A data professional who works closely with analytics to provide meaningful insights that help improve current business operations.
+* **Data stewardship (Veri Yöneticiliği)**
+    The practices of an organization that ensure that data is accessible, usable, and safe.
+
+### E
+* **Edge computing (Uç Bilişim)**
+    A way of distributing computational tasks over a bunch of nearby processors (i.e., computers) that is good for speed and resiliency and does not depend on a single source of computational power.
+
+### H
+* **Hackathon (Hackathon / Yazılım Maratonu)**
+    An event where programmers and data professionals come together and work on a project.
+
+### I
+* **Interpersonal skills (Kişilerarası Beceriler)**
+    Traits that focus on communicating and building relationships.
+
+### J
+* **Jupyter Notebook (Jupyter Notebook)**
+    An open-source web application used to create and share documents that contain live code, equations, visualizations, and narrative text.
+
+### M
+* **Machine learning (Makine Öğrenimi)**
+    The use and development of algorithms and statistical models to teach computer systems to analyze patterns in data.
+* **Mentor (Mentor / Akıl Hocası)**
+    Someone who shares knowledge, skills, and experience to help another grow both professionally and personally.
+* **Metrics (Metrikler)**
+    Methods and criteria used to evaluate data.
+
+### N
+* **Nonprofit (Kâr Amacı Gütmeyen Kuruluş)**
+    A group organized for purposes other than generating profit; often aims to further a social cause or provide a benefit to the public.
+
+### O
+* **Open data (Açık Veri)**
+    Data that is available to the public and free to use, with guidance on how to navigate the datasets and acknowledge the source.
+
+### P
+* **Personally identifiable information (PII) (Kişisel Tanımlanabilir Bilgiler)**
+    Information that permits the identity of an individual to be inferred by either direct or indirect means.
+* **Python (Python)**
+    A general-purpose programming language.
+
+### R
+* **RACI chart (RACI Tablosu)**
+    A visual that helps to define roles and responsibilities for individuals or teams to ensure work gets done efficiently; lists who is **R**esponsible, **A**ccountable, **C**onsulted, and **I**nformed for project tasks.
+
+### S
+* **Sample (Örneklem)**
+    A segment of a population that is representative of the entire population.
+
+### T
+* **Tableau (Tableau)**
+    A business intelligence and analytics platform that helps people visualize, understand, and make decisions with data.
