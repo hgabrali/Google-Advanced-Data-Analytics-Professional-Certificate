@@ -958,3 +958,144 @@ Bir veri bilimci olarak, PACE dokümanındaki teknik notlarınızı yönetici ö
 
 > **Pro Tip:** Projenin sonunda yönetici özetini yazarken "Ben bu projede ne yapmıştım?" diye hatırlamaya çalışmak yerine, PACE dokümanınızı açın. Cevaplar zaten orada, sizin tarafınızdan yazılmış durumda bekliyor olacak.
 
+# Create a project proposal
+
+<img width="600" height="710" alt="image" src="https://github.com/user-attachments/assets/1d129f3d-84f6-45f4-9a91-25b2cd982df4" />
+
+# Activity: Create a Project Proposal (Proje Teklifi Oluşturma)
+
+## Activity Overview (Etkinlik Genel Bakış)
+
+As you have learned, a **project proposal** (proje teklifi) is a plan of action that describes what needs to be accomplished in order to achieve a project’s intended goals and outcome. The main function of this resource is to outline a project’s **objectives** (hedefler) and **requirements** (gereksinimler). Project proposals are typically generated at the beginning of a project and are used by team members throughout the project’s duration.
+
+In this activity, you will create a project proposal based on a fictional workplace scenario.
+
+> **Note:** To review tips for creating an effective project proposal, refer to the reading about communicating objectives with a project proposal.
+
+Be sure to complete this activity before moving on. The next course item will provide you with a completed **exemplar** (örnek/model) to compare to your own work. You will not be able to access the exemplar until you have completed this activity.
+
+---
+
+## Scenario (Senaryo)
+
+Review the following scenario. Then complete the step-by-step instructions.
+
+You are a **data professional** (veri profesyoneli) working for an international delivery company. Company leadership has asked the data team to develop a **machine learning model** (makine öğrenimi modeli) for **predictive maintenance** (kestirimci bakım) on its fleet of delivery vehicles.
+
+**Predictive maintenance** uses machine learning to help predict equipment failures before they occur. The ML model analyzes both **historical data** (geçmiş veriler) such as performance and maintenance records, and **real-time data** (gerçek zamanlı veriler) collected from sensors placed on vehicles.
+
+Leadership wants to use the power of predictive maintenance to:
+* Monitor the performance of delivery vehicles.
+* Identify and fix issues before they cause costly downtime or delays.
+
+*Example:* If the engine of a delivery vehicle breaks down, the company has to deal with delivery delays, dissatisfied customers, vehicle repair or replacement, and potential safety issues.
+
+**Benefits of Predictive Maintenance:**
+* Optimized delivery (Optimize edilmiş teslimat)
+* Increased safety (Artırılmış güvenlik)
+* Improved customer service (Geliştirilmiş müşteri hizmetleri)
+* Reduced costs (Azaltılmış maliyetler)
+
+Your manager asks you to create a **project proposal** to identify and organize key **milestones** (kilometre taşları) and **deliverables** (teslimatlar) for the project.
+
+* **Proposed Timeline (Önerilen Zaman Çizelgesi):** 12 weeks
+* **Goal (Hedef):** To build a model with at least 90% accuracy.
+
+---
+
+## Step-By-Step Instructions (Adım Adım Talimatlar)
+
+Follow the instructions to complete each step of the activity. Then, answer the five questions at the end of the activity before going to the next course item to compare your work to a completed exemplar.
+
+### Step 1: Access the Template (Şablona Erişim)
+
+To use the supporting materials for this course item, click the following link and select “Use Template.”
+
+* **Link to supporting materials:** [Predictive maintenance project proposal]
+
+**OR**
+
+If you don’t have a Google account, you can download the supporting materials directly from the attachment provided in the course platform.
+
+### Step 2: Complete the Project Proposal (Proje Teklifini Tamamlama)
+
+Review the scenario and think about the **objective** (amaç), **scope** (kapsam), **timeline** (zaman çizelgesi), and **key tasks** (ana görevler) of the project.
+
+The project proposal should include the following tasks:
+1.  **Data collection** (Veri toplama)
+2.  **Data cleaning** (Veri temizleme)
+3.  **Data exploration** (Veri keşfi/analizi)
+4.  **Building and testing of ML models** (ML modellerinin oluşturulması ve test edilmesi)
+5.  **Sharing results/insights with stakeholders** (Sonuçların/içgörülerin paydaşlarla paylaşılması)
+
+Consider what information would be most relevant to the data team. Then complete the project proposal with that information.
+
+**Note:** The project template has been organized according to the **PACE framework** (Plan, Analyze, Construct, Execute). Be sure to address the following elements in your completed project proposal:
+
+* A **project title** (proje başlığı)
+* An **objective statement** (amaç bildirimi) that describes the goal of the project
+* A list of **key tasks and deliverables** (ana görevler ve teslimatlar listesi) to be completed for each project milestone
+* A **time estimate** (tahmini süre) for achieving each project milestone
+
+---
+# Proje Teklifi ve PACE İş Akışı Dokümantasyonu
+> **Özet:** Bu doküman, bir uluslararası teslimat şirketi için geliştirilecek "Tahminleyici Bakım" (Predictive Maintenance) projesinin teklif taslağını ve ilgili PACE (Plan, Analyze, Construct, Execute) modeli değerlendirme sorularını içerir.
+
+---
+
+## Bölüm 1: Teslimat Filosu İçin Tahminleyici Bakım Proje Teklifi (Project Proposal)
+
+Aşağıdaki tablo, yönetim tarafından talep edilen ve araç filosundaki arızaları önceden tespit etmeyi amaçlayan makine öğrenimi projesi için hazırlanmıştır.
+
+**Proje Başlığı:** Delivery Fleet Predictive Maintenance Initiative (Teslimat Filosu Tahminleyici Bakım Girişimi)
+
+### **Hedef (Objective)**
+Veri ekibinin hedefi, teslimat araçlarının performansını izlemek ve %90 doğruluk oranıyla (accuracy rate) olası ekipman arızalarını önceden tahmin eden bir makine öğrenimi modeli (Machine Learning Model) geliştirmektir. Bu sayede maliyetli kesintilerin ve teslimat gecikmelerinin önüne geçilecektir.
+
+### **PACE Aşamalarına Göre Kilometre Taşları (Milestones)**
+
+| Kilometre Taşı (Milestone) | Görevler (Tasks) | Çıktılar/Teslimatlar (Deliverables) | Tahmini Süre (Estimated Time) |
+| :--- | :--- | :--- | :--- |
+| **Milestone 1: Planlama (Planning)** | • Proje iş akışını (workflow) ana hatlarıyla belirle<br>• Bakım kayıtları ve sensör verilerini (sensor data) topla<br>• Gerekli yazılım/donanım ihtiyaçlarını belirle | • Paydaşlar bilgilendirildi (Stakeholders updated)<br>• Veri toplama planı onaylandı | **2 Hafta** |
+| **Milestone 2: Analiz (Analyzing)** | • Veriyi temizle (Data cleaning) ve dönüştür<br>• Keşifsel Veri Analizi (Exploratory Data Analysis - EDA) yap<br>• Veri tutarsızlıklarını gider | • Modellemeye hazır veri seti (Data ready for modeling)<br>• EDA Raporu | **3 Hafta** |
+| **Milestone 3: Oluşturma (Constructing)** | • Modelleme stratejilerini kesinleştir<br>• Makine öğrenimi modellerini inşa et<br>• Modeli test et ve %90 doğruluk (accuracy) için optimize et | • Eğitilmiş Makine Öğrenimi Modeli (Trained ML Model)<br>• Performans metrikleri raporu | **5 Hafta** |
+| **Milestone 4: Yürütme (Executing)** | • Sonuçları kesinleştir<br>• Bulguları ve içgörüleri (insights) paydaşlarla paylaş<br>• Geri bildirimleri (feedback) entegre et | • Veri Görselleştirmeleri (Visualizations)<br>• Yönetici Özeti (Executive Summary)<br>• Canlıya alma planı | **2 Hafta** |
+
+> **Toplam Proje Süresi:** 12 Hafta
+
+---
+
+## Bölüm 2: PACE Modeli Değerlendirme Soruları (Quiz Answers)
+
+Aşağıdaki cevaplar, PACE modelinin aşamalarını ve iletişim stratejilerini test eden sorulara aittir.
+
+### Soru 1: Veri İnceleme Aşaması
+**Soru:** In the \_\_\_\_\_ stage of the PACE model, a methodical examination of the data is conducted.
+* **Cevap:** `Analyze`
+* **Açıklama:** Verinin temizlendiği, düzenlendiği ve sistematik olarak incelendiği aşama **Analiz (Analyze)** aşamasıdır.
+
+### Soru 2: Yürütme Aşamasında Paylaşım
+**Soru:** In the execute stage of the PACE model, what is shared with stakeholders?
+* **Cevap:** `The story told by the data`
+* **Açıklama:** Yürütme (Execute) aşamasında, paydaşlar genellikle ham kodlarla değil, verinin anlattığı hikaye ve sonuçlarla ilgilenirler.
+
+### Soru 3: Yeni Veri Uzmanına E-posta
+**Soru:** What information is most relevant to include in the email to the new data professional?
+* **Doğru Seçenekler:**
+    * `[x]` The accuracy goal for the visitation prediction model (Ziyaret tahmin modeli için doğruluk hedefi)
+    * `[x]` An overview of the data team’s workflow (Veri ekibinin iş akışına genel bakış)
+    * `[x]` An invitation to ask follow-up questions (Takip soruları sormaya davet)
+* **Açıklama:** Yeni bir ekip üyesine projenin hedefi (%90 doğruluk), nasıl çalışılacağı ve iletişime açık olunduğu bildirilmelidir. "ML modelleri nasıl çalışır" gibi temel bir bilgiye profesyonel bir uzmanın ihtiyacı yoktur.
+
+### Soru 4: İletişimin Nedeni
+**Soru:** Which element of communicative exchange involves thinking about the reason why the communication is taking place?
+* **Cevap:** `Purpose`
+* **Açıklama:** İletişimin neden gerçekleştiğini sorgulamak, doğrudan **Amaç (Purpose)** ile ilgilidir.
+
+---
+
+## Bölüm 3: Temel Çıkarımlar (Key Takeaways)
+
+1.  **Yapılandırılmış Yaklaşım:** Proje teklifleri (Project Proposals), PACE çerçevesini kullanarak belirsizliği azaltır ve kilometre taşlarını (milestones) netleştirir.
+2.  **Hedef Odaklılık:** İyi bir teklif, "Neden yapıyoruz?" sorusuna net bir cevap verir (Örn: %90 doğruluk ile arıza tahmini).
+3.  **İletişim:** Teknik detaylar (Construct aşaması) ile iş sonuçları (Execute aşaması) arasındaki dengeyi kurmak, proje başarısı için kritiktir.
