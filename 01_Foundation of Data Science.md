@@ -1213,3 +1213,266 @@ A framework that provides an initial structure to guide the process of data anal
 ### T
 * **Tableau (Tableau)**
     A business intelligence and analytics platform that helps people visualize, understand, and make decisions with data.
+
+---
+
+# End-of-course portfolio project introduction
+
+Each course in the **Google Advanced Data Analytics Certificate** concludes with a project that provides hands-on opportunities to practice your knowledge. These end-of-course portfolio projects build across courses to simulate the **full lifecycle of a data project**, just like job tasks that you will encounter as a data professional.
+
+---
+
+### Portfolio Compilation & Career Prep
+
+[Course 1 PACE strategy document](https://docs.google.com/document/d/1vQAji1vQtK1-IdypxBg1g3K-dTu4mXcBlxC572eSwZM/template/preview)
+
+[Automatidata project proposal](https://docs.google.com/document/d/1ru7p_XahBMHah9ELzSIoEcBzsWdMp0SGczI19EgP7XI/template/preview)
+
+
+
+After completing all of the courses in this certificate program, you are encouraged to compile the projects in a portfolio that highlights your **data analytics skills**. 
+
+> **Note:** You will learn how to create a portfolio in the final course of this certificate program: **Google Advanced Data Analytics Capstone**.
+
+In addition, the end-of-course projects can also be used to help you prepare for **job applications and interviews** since they showcase the valuable skills that you bring to the world of data analytics.
+
+<img width="978" height="321" alt="image" src="https://github.com/user-attachments/assets/074fc9ee-343c-49da-a6da-6ad3883144f5" />
+
+
+# Explore your Course 1 workplace scenarios
+
+## Overview
+
+This certificate offers you a choice of several different workplace scenarios to use when completing each end-of-course project:
+
+* **Automatidata**: featuring a fictional data consulting firm
+* **TikTok**: created in partnership with the short-form video hosting company
+* **Waze**: created in partnership with the realtime driving directions app
+
+Each scenario offers you an opportunity to apply your skills and create work samples to share when applying for jobs; so, you will be practicing similar skills regardless of the workplace scenario. It is recommended that you work with the **same scenario** for each end-of-course project to have a cohesive experience. However, you are welcome to investigate any of the workplace scenarios you are interested in as you progress through the program.
+
+> **Reminder:** We recommend that you choose **one workplace scenario** to follow for all end-of-course projects to ensure end-to-end project development.
+
+---
+
+### Minimum Requirements & Additional Practice
+
+The **minimum requirement** to earn your **Advanced Data Analytics Certificate** is to complete the end-of-course project, using one workplace scenario, for each course. 
+
+You may complete the project for as many of the workplace scenarios as you wish. Completing the project for more than one workplace scenario in a single course offers you:
+* Additional practice
+* Work examples you can add to your **portfolio**
+* More content to share with prospective employers during your job search
+
+This reading offers an overview of all available workplace scenarios. **Before moving on, identify the scenario you would like to complete for the Course 1 end-of-course project.**
+
+
+<img width="557" height="466" alt="image" src="https://github.com/user-attachments/assets/27f9a901-60e6-47b3-a423-7fa6bc9f0b40" />
+
+
+# Project Scenario: Automatidata
+
+## Project Goal
+In this fictional scenario, the **New York City Taxi and Limousine Commission (TLC)** has approached the data consulting firm **Automatidata** to develop an app that enables TLC riders to estimate the taxi fares in advance of their ride.
+
+## Background
+Since 1971, TLC has been regulating and overseeing the licensing of New York City's taxi cabs, for-hire vehicles, commuter vans, and paratransit vehicles.
+
+## Scenario
+You are a newly-hired **data professional** at **Automatidata**, a fictional data consulting firm. Automatidata’s focus is to help clients transform their unused and stored data into useful solutions. 
+
+In this scenario, you will consult with The New York City Taxi & Limousine Commission to develop an app that will help users (TLC riders) estimate their taxi fares before their ride. Your first responsibility as a data analytics consultant will be to structure the necessary tasks into a **project proposal** that establishes **milestones** for the ride fare data project.
+
+### Course 1 Tasks
+* Gather information from the notes from the last executive meeting of Automatidata
+* Assign **PACE stages** (Plan, Analyze, Construct, Execute) to the requested tasks
+* Organize tasks into **milestones**
+* Create a **project proposal** for the executive team’s approval
+
+---
+
+> **Note:** The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred. And, the data shared in this project has been created for pedagogical purposes.
+
+
+<img width="809" height="234" alt="image" src="https://github.com/user-attachments/assets/6751c5d9-f9ce-4aae-9aee-d60fb52919fc" />
+
+
+# Project Scenario: TikTok
+
+## Project Goal
+The **TikTok data team** is developing a **machine learning model** for classifying claims made in videos submitted to the platform.
+
+## Background
+TikTok is the leading destination for short-form mobile video. The platform is built to help imaginations thrive. TikTok's mission is to create a place for inclusive, joyful, and authentic content–where people can safely discover, create, and connect.
+
+## Scenario
+As a **data analyst** on TikTok's data team, with new considerations from the leadership team, you will create a **project proposal** by assigning the required data analytical tasks into realistic **milestones** that will advise future steps in the claims classification project.
+
+### Course 1 Tasks
+* Gather information from stakeholder notes from within TikTok
+* Assign **PACE stages** (Plan, Analyze, Construct, Execute) to the requested tasks for the classification project
+* Organize tasks into **milestones**
+* Create a **project proposal** for the TikTok data team
+
+---
+
+> **Note:** The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred. And, the data shared in this project has been created for pedagogical purposes.
+
+
+
+<img width="637" height="245" alt="image" src="https://github.com/user-attachments/assets/bc4180ae-deb4-46a2-9e84-e0c2fd8d853f" />
+
+# Project Scenario: Waze
+
+## Project Goal
+**Waze leadership** has asked your data team to develop a **machine learning model to predict user churn**. 
+
+* **Churn** quantifies the number of users who have uninstalled the Waze app or stopped using the app. 
+* This project focuses on **monthly user churn**. 
+* An accurate model will help prevent churn, improve user retention, and grow Waze’s business.
+
+## Background
+Waze’s free navigation app makes it easier for drivers around the world to get to where they want to go. Waze’s community of map editors, beta testers, translators, partners, and users helps make each drive better and safer.
+
+## Scenario
+You are the newest member of **Waze’s data team**. Your team is about to begin their user churn project. The first step is to create a **project proposal**. The proposal will clearly define the overall goal of the project, and identify key tasks, milestones, and stakeholders.
+
+### Course 1 Tasks
+* Assign **PACE stages** (Plan, Analyze, Construct, Execute) to the requested tasks for the user churn project
+* Organize tasks into **milestones**
+* Create a **project proposal** for the Waze data team
+
+---
+
+> **Note:** The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred. And, the data shared in this project has been created for pedagogical purposes.
+
+# Course 1 End-of-Course Portfolio Project Overview: Automatidata
+
+## Learn about the Course 1 Automatidata workplace scenario!
+
+The end-of-course project in Course 1 focuses on your ability to **plan for data projects** and create a **project proposal**. The end-of-course projects were designed with you in mind, offering an opportunity for you to practice and apply your data analytic skills. The materials provided here will guide you through discussions with co-workers, internal team members, and external stakeholders.
+
+---
+
+## Background on the Automatidata Scenario
+
+Congrats on your new job as a **data analyst** at a data consulting firm called **Automatidata**. 
+
+* **Automatidata** works with its clients to transform their unused and stored data into useful solutions, such as performance dashboards, customer-facing tools, strategic business insights, and more. They specialize in identifying a client’s business needs and utilizing their data to meet those business needs.
+* **The Client (NYC TLC):** Automatidata is consulting for the **New York City Taxi and Limousine Commission (TLC)**. New York City TLC is an agency responsible for licensing and regulating New York City's taxi cabs and for-hire vehicles. 
+* **The Goal:** The agency has partnered with Automatidata to develop a **regression model** that helps estimate taxi fares before the ride, based on data that TLC has gathered. 
+
+**Data Context:**
+The TLC data comes from over **200,000 taxi and limousine licensees**, making approximately **one million combined trips per day**.
+
+> **Note:** This project's dataset was created for pedagogical purposes and may not be indicative of New York City taxi cab riders' behavior.
+
+---
+
+## Project Background
+
+Automatidata is in the **earliest stages** of the TLC project. The following tasks are needed before the team can begin the data analysis process:
+
+1.  A **project proposal** identifying the following:
+    * Organize project tasks into **milestones**
+    * Classify tasks using the **PACE workflow** 
+    * Identify relevant **stakeholders**
+
+### Your Assignment
+For your first assignment, Automatidata will need a **project proposal** that will create milestones for the tasks within the TLC project. Remember to take into account your audience, team, project goal, and PACE stages of each task in planning your project deliverable.
+
+---
+
+## Team Members at Automatidata and the New York City TLC
+
+### Automatidata Team Members
+*Your teammates at Automatidata have technical experience with data analysis and data science. Keep summaries and messages to these team members concise and to the point.*
+
+| Name | Role |
+| :--- | :--- |
+| **Udo Bankole** | Director of Data Analysis |
+| **Deshawn Washington** | Data Analysis Manager (Your Supervisor) |
+| **Luana Rodriquez** | Senior Data Analyst |
+| **Uli King** | Senior Project Manager |
+
+### New York City TLC Team Members
+*The TLC team members are program managers who oversee operations at the organization. Their roles are not highly technical, so be sure to adjust your language and explanation accordingly.*
+
+| Name | Role |
+| :--- | :--- |
+| **Juliana Soto** | Finance and Administration Department Head |
+| **Titus Nelson** | Operations Manager |
+
+> **Note:** The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred. The data shared in this project has been altered for pedagogical purposes.
+
+---
+
+## Meeting Notes
+
+Now that you are working as Automatidata’s latest data analytics professional, you are given access to the company network and set up with a company email account (your first initial and last name, followed by @automatidata.org).
+
+Opening your inbox, you notice an email from your supervisor, Deshawn.
+
+> **From:** Deshawn Washington
+> **Subject:** Review meeting notes
+>
+> If you are able to read this, then your company accounts have been created! Now is the perfect time to get started. 
+>
+> Last week, I attended an internal meeting with our leadership team about a new project we are about to begin. You’ll receive more information in the next few days, but I would like you to be aware of some needs that were identified by our leadership team. 
+>
+> Here is an excerpt from the notes I took during the Automatidata leadership team meeting. I’ve organized the points by the person who made them.
+>
+> **Uli King (Senior Project Manager)**
+> * The data team will need a global-level project document to outline the goals and milestones.
+> * I am working closely with **Titus Nelson** over at the New York City Taxi and Limo Commission. He has requested some visuals to share with TLC’s executives.
+>
+> **Luana Rodriquez (Senior Data Analyst)**
+> * The dataset from TLC has to be inspected before any analysis can begin.
+> * Our team needs to determine what information the TLC data provides through **exploratory data analysis (EDA)**.
+> * Eventually, our team will need to test to find if the model is delivering consistent results.
+>
+> **Udo Bankole (Director of Data Analysis)**
+> * Before we present any insights to TLC, we'll need to determine whether or not the model we produce meets the project requirements.
+> * Once we have a final model, I'll need to know the main talking points going into our presentation with TLC.
+>
+> **My thoughts and concerns… (Deshawn Washington)**
+> * I think it's best to use **Python** for the TLC project. I'll have someone on my team set that up as soon as we have the plan in place.
+> * It will be important to establish the relationship between any variables within the TLC data. I'd suggest the data team consider **A/B testing**, since that will analyze the relationship between the two most useful variables and subsequently provide data-driven support for future business decisions.
+>
+> Review the meeting notes above to become familiar with the project’s context. I’ll ask you to identify project tasks and come up with a structure to guide the data team through this project. After our discussion about your experience in the certificate program offered by Google, I know that your efficient communication style and problem-solving will enhance the abilities of the data team.
+>
+> There will be more details sent to you very soon.
+>
+> Welcome to the team,
+>
+> **Deshawn Washington**
+> Data Analysis Manager
+> Automatidata
+>
+> *(P.S. There will be muffins in the break room every Tuesday morning. Be early…unless you like bran muffins. LOL)*
+
+---
+
+## Specific Project Deliverables
+
+With this end-of-course project, you will gain valuable practice and apply your new skills as you complete the following:
+
+1.  **Course 1 PACE Strategy Document**: To plan your project while considering your audience members, teammates, key milestones, and overall project goal.
+2.  **Create a project proposal**: For the data team.
+
+---
+
+## Key Takeaways
+
+The **Google Advanced Data Analytics Certificate** end-of-course project is designed for you to practice and apply course skills in a fictional workplace scenario. By completing each course’s end-of-course project, you will have work examples that will enhance your portfolio and showcase your skills for future employers.
+
+| Term | Definition |
+| :--- | :--- |
+| **Exploratory Data Analysis (EDA)** | A process to inspect and analyze datasets to summarize their main characteristics, often using visual methods. |
+| **Automatidata** | A fictional data consulting firm that transforms unused data into useful solutions for clients. |
+| **New York City TLC** | The agency responsible for regulating taxi services in NYC, partnering with Automatidata for data analysis projects. |
+| **Project Proposal** | A document outlining project milestones, tasks, and stakeholder identification necessary for project planning. |
+| **PACE Workflow** | A framework used to classify tasks and organize project activities into manageable stages. |
+
+
+
