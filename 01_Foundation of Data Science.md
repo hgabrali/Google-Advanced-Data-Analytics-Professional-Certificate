@@ -1475,4 +1475,156 @@ The **Google Advanced Data Analytics Certificate** end-of-course project is desi
 | **PACE Workflow** | A framework used to classify tasks and organize project activities into manageable stages. |
 
 
+# PACE Strategy Document: NYC TLC Project
 
+## **P**lan Stage
+**Goal:** Define the project scope, identify stakeholders, and determine data requirements.
+
+* **What is the business task?**
+    * The goal is to develop a machine learning model (specifically a regression model) to predict taxi cab fares in advance based on trip data (distance, time of day, etc.). This will help the NYC TLC improve user experience and operational efficiency.
+
+* **Who are the stakeholders?**
+    * **Internal (Automatidata):**
+        * Udo Bankole (Director of Data Analysis)
+        * Deshawn Washington (Data Analysis Manager)
+        * Luana Rodriquez (Senior Data Analyst)
+        * Uli King (Senior Project Manager)
+    * **External (NYC TLC):**
+        * Juliana Soto (Finance & Administration Dept Head)
+        * Titus Nelson (Operations Manager)
+
+* **What are the initial requirements?**
+    * Create a global project document (Project Proposal).
+    * Set up the Python environment for analysis.
+    * Acquire the NYC TLC dataset.
+
+## **A**nalyze Stage
+**Goal:** Understand the data, clean it, and explore relationships between variables.
+
+* **What data is required?**
+    * The NYC TLC dataset containing trip details (distance, time, fare amount, etc.).
+    * *Note:* Data covers 200,000+ licensees and ~1 million trips/day.
+
+* **What specific analysis steps are needed?**
+    * **Data Cleaning:** Inspect data for duplicates, missing values, and outliers (as requested by Luana).
+    * **EDA (Exploratory Data Analysis):** Visualize distributions and correlations to understand the data structure.
+    * **A/B Testing:** Investigate relationships between key variables (e.g., payment type vs. fare amount) as suggested by Deshawn.
+
+## **C**onstruct Stage
+**Goal:** Build and validate the machine learning model.
+
+* **What modeling techniques will be used?**
+    * **Regression Analysis:** Since the target variable (fare amount) is continuous, we will build a regression model. 
+
+[Image of linear regression graph]
+
+    * **Tooling:** Python (Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn).
+
+* **How will we evaluate the model?**
+    * We need to test the model to ensure it delivers consistent results (per Luana).
+    * Verify if the model meets the initial project requirements before presenting to the client (per Udo).
+
+## **E**xecute Stage
+**Goal:** Present findings and implement the solution.
+
+* **What are the final deliverables?**
+    * A working regression model for fare prediction.
+    * Visualizations of key insights for TLC executives (requested by Titus).
+    * A final presentation summarizing the model's performance and business value.
+
+* **Who is the audience for the presentation?**
+    * The technical team at Automatidata (for model validation).
+    * The non-technical leadership at NYC TLC (Juliana and Titus) – requiring concise, non-jargon language.
+ 
+  # Project Proposal: NYC TLC Trip Fare Prediction
+
+**Document Status:** Draft
+**Prepared By:** [Your Name], Data Analyst
+**Client:** New York City Taxi and Limousine Commission (TLC)
+
+## 1. Project Background
+The New York City Taxi and Limousine Commission (TLC) has been collecting data on taxi and rideshare trips since 1971. The agency wants to modernize its approach by leveraging this data to improve rider experience. Specifically, they aim to provide riders with an estimated fare *before* the ride begins.
+
+## 2. Project Goal
+The primary goal is to build a **regression model** that predicts the fare amount for a taxi ride.
+* **Target Variable:** Fare Amount ($)
+* **Predictor Variables:** Trip distance, time of day, pickup/drop-off locations, and other relevant factors found in the dataset.
+
+## 3. Scope & Deliverables
+The Automatidata team will be responsible for the end-to-end data lifecycle, structured as follows:
+
+| Milestone | Deliverable | Description |
+| :--- | :--- | :--- |
+| **1. Planning** | Project Proposal | Define goals, stakeholders, and timeline. |
+| **2. Analysis** | EDA Report | Summary of data quality, cleaning steps, and initial visualizations. |
+| **3. Construction** | Regression Model | A Python-based machine learning model to predict fares. |
+| **4. Execution** | Executive Presentation | A deck containing insights, model performance metrics, and recommendations for TLC leadership. |
+
+## 4. Methodology & Tools
+* **Framework:** PACE (Plan, Analyze, Construct, Execute) 
+* **Language:** Python
+* **Key Techniques:**
+    * Exploratory Data Analysis (EDA)
+    * A/B Testing (to determine variable relationships)
+    * Multiple Linear Regression
+
+## 5. Stakeholders
+* **Automatidata (Internal):**
+    * Udo Bankole (Director) - *Requires confirmation of model requirements.*
+    * Deshawn Washington (Manager) - *Project lead; requested Python & A/B testing.*
+    * Luana Rodriquez (Snr Analyst) - *Lead on data inspection & EDA.*
+    * Uli King (Snr PM) - *Client liaison.*
+* **NYC TLC (Client):**
+    * Juliana Soto (Finance)
+    * Titus Nelson (Operations) - *Requires visual insights for executives.*
+
+## 6. Assumptions & Risks
+* **Assumption:** The provided dataset is representative of typical NYC traffic and pricing patterns.
+* **Risk:** The dataset is large (200k licensees); efficient code will be necessary to handle processing time.
+
+---
+
+# Project Proposal: NYC TLC Taxi Fare Prediction
+
+**Project Title:** New York City TLC Taxi Fare Prediction Model
+**Prepared By:** [Your Name/Data Team]
+**Date:** [Current Date]
+**Status:** Draft
+
+---
+
+## Project Overview
+The New York City Taxi and Limousine Commission (TLC) has partnered with Automatidata to develop a machine learning regression model. The primary objective is to predict the estimated fare amount for a taxi ride prior to the trip, based on historical trip data (distance, time, pickup/drop-off locations). 
+
+This project will enable the TLC to improve rider transparency and operational efficiency. The Automatidata team will handle the full data lifecycle, from data ingestion and cleaning to model construction and final executive presentation.
+
+---
+
+## Project Tasks & Milestones (PACE Workflow)
+
+The following table outlines the chronological order of tasks, their associated milestones, the PACE stage, and the primary stakeholder driving the requirement.
+
+| Order | Task Description | Milestone | PACE Stage(s) | Assigned Stakeholder |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Draft Project Proposal** <br> *Define goals, scope, and timeline based on initial meetings.* | **Planning** | **Plan** | **Deshawn Washington** <br> *(Supervisor)* |
+| **2** | **Data Ingestion & Inspection** <br> *Import TLC dataset and check for missing values, duplicates, and outliers.* | **EDA** | **Analyze** | **Luana Rodriquez** <br> *(Req. Inspection)* |
+| **3** | **Exploratory Data Analysis (EDA)** <br> *Visualize distributions and identify key variables affecting fare amounts.* | **EDA** | **Analyze** | **Luana Rodriquez** |
+| **4** | **A/B Testing** <br> *Test relationships between variables (e.g., payment type vs. fare amount) to select model features.* | **Model Building** | **Analyze** / **Construct** | **Deshawn Washington** <br> *(Suggested strategy)* |
+| **5** | **Build Regression Model** <br> *Develop the machine learning model using Python to predict fare amounts.* | **Model Building** | **Construct** | **Data Team** |
+| **6** | **Model Validation** <br> *Test model consistency and verify it meets client requirements.* | **Model Building** | **Construct** / **Execute** | **Udo Bankole** <br> *(Director)* |
+| **7** | **Create Visualizations** <br> *Generate clear charts and graphs for non-technical audiences.* | **Presentation** | **Execute** | **Titus Nelson** <br> *(Client - Ops Manager)* |
+| **8** | **Final Executive Presentation** <br> *Summarize insights, model performance, and business recommendations.* | **Presentation** | **Execute** | **Uli King** <br> *(Project Manager)* |
+
+---
+
+## PACE Stage Definitions
+
+* **[P]lan:** Establish the framework, scope, and goals of the project.
+* **[A]nalyze:** Understand the data through cleaning and exploration.
+* **[C]onstruct:** Build and train the machine learning models. 
+* **[E]xecute:** Present findings and deploy the solution to stakeholders.
+
+## Key Stakeholders
+
+* **Internal (Automatidata):** Udo Bankole, Deshawn Washington, Luana Rodriquez, Uli King.
+* **External (NYC TLC):** Titus Nelson, Juliana Soto.
