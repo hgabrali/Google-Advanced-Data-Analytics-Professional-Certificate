@@ -175,4 +175,87 @@ The following table outlines the project workflow, aligning tasks with milestone
 * **Internal (Data Team):** Willow Jaffey, Rosie Mae Bradshaw, Orion Rainier.
 * **Cross-functional:** Mary Joanna Rodgers, Margery Adebowale, Maika Abadi.
 
+----
+# Waze Project: User Churn Prediction
 
+**Project Status:** Draft
+**Prepared By:** [Your Name], Data Analyst
+**Date:** [Current Date]
+
+---
+
+## Part 1: PACE Strategy Document
+
+This document outlines the strategic workflow for the Waze User Churn project, utilizing the **PACE** (Plan, Analyze, Construct, Execute) framework.
+
+### 1. Data Project Questions & Considerations
+
+**Q: What is the business task?**
+* **Answer:** The goal is to develop a machine learning model to predict **user churn** (users who stop using the app). By identifying at-risk users, Waze can improve retention strategies and grow the business.
+
+**Q: Who are the stakeholders?**
+* **Answer:**
+    * **Data Team (Internal):** Harriet Hadzic (Director), May Santner (Manager/Supervisor), Chidi Ga (Senior Analyst), Sylvester Esperanza (Senior PM).
+    * **Cross-functional Partners:** Emrick Larson (Finance), Ursula Sayo (Operations).
+
+**Q: What are the deliverables?**
+* **Answer:**
+    1.  Project Proposal (Global project document).
+    2.  Exploratory Data Analysis (EDA) Report.
+    3.  Machine Learning Model (Churn Prediction).
+    4.  Executive Visualizations & Presentation.
+
+### 2. PACE Workflow (Task Classification)
+
+The following tasks have been identified from leadership meetings. They are classified into the appropriate PACE stages:
+
+| Task Description | PACE Stage | Explanation |
+| :--- | :--- | :--- |
+| **Draft Project Proposal** | **Plan** | Establishing goals, scope, and timeline before work begins. |
+| **Set up Python Environment** | **Plan** | Preparing the technical tools required for the project. |
+| **Inspect Dataset** | **Analyze** | Checking data integrity (missing values, duplicates) before deep analysis. |
+| **Exploratory Data Analysis (EDA)** | **Analyze** | visualizing data to understand patterns and user behaviors. |
+| **Conduct Hypothesis Testing** | **Analyze** | Statistically testing relationships between key variables (as suggested by May). |
+| **Build Prediction Model** | **Construct** | Developing the machine learning algorithm to predict churn. |
+| **Validate Model Results** | **Construct** | Testing the model for consistency and accuracy against requirements. |
+| **Generate Visuals for Executives** | **Execute** | Creating easy-to-understand charts for non-technical stakeholders. |
+| **Final Presentation** | **Execute** | Communicating insights and recommendations to leadership. |
+
+---
+
+## Part 2: Project Proposal
+
+**Project Title:** Waze User Churn Prediction Model
+
+### Project Overview
+Waze leadership has identified **user churn** as a critical metric for business growth. Currently, there is a need to understand *who* is churning and *why*. The data team will develop a **machine learning model** 
+
+[Image of machine learning classification]
+ to predict users likely to uninstall or stop using the app. This will enable Waze to proactively engage at-risk users, thereby improving retention rates and optimizing product strategy.
+
+### Project Tasks & Milestones
+
+The following table aligns project tasks with milestones, PACE stages, and the requesting stakeholder based on initial meeting notes.
+
+| Order | Task Description | Milestone | PACE Stage(s) | Relevant Stakeholder |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Create Project Proposal** <br> *Draft global document outlining goals and timeline.* | **Planning** | **Plan** | **Sylvester Esperanza** <br> *(Senior PM)* |
+| **2** | **Set up Python Environment** <br> *Prepare coding environment for analysis.* | **Planning** | **Plan** | **May Santner** <br> *(Manager)* |
+| **3** | **Data Inspection** <br> *Check for missing data, outliers, and integrity.* | **Analysis** | **Analyze** | **Chidi Ga** <br> *(Senior Analyst)* |
+| **4** | **Exploratory Data Analysis (EDA)** <br> *Uncover patterns and relationships in user data.* | **Analysis** | **Analyze** | **Chidi Ga** |
+| **5** | **Hypothesis Testing** <br> *Test relationships between key variables.* | **Analysis** | **Analyze** | **May Santner** |
+| **6** | **Build Machine Learning Model** <br> *Develop model to predict monthly user churn.* | **Model Building** | **Construct** | **Data Team** |
+| **7** | **Model Validation** <br> *Ensure model meets project requirements and consistency.* | **Model Building** | **Construct** | **Harriet Hadzic** <br> *(Director)* |
+| **8** | **Generate Visualizations** <br> *Create visuals for executive sharing.* | **Presentation** | **Execute** | **Sylvester Esperanza** |
+| **9** | **Final Presentation** <br> *Define main talking points and present to leadership.* | **Presentation** | **Execute** | **Harriet Hadzic** |
+
+### Key Takeaways for Success
+* **Communication:** Adjust technical language when speaking with cross-functional partners (Emrick & Ursula).
+* **Tools:** Python will be the primary tool for this project.
+* **Focus:** The project specifically targets *monthly* user churn.
+
+
+
+[Strategy Document](https://docs.google.com/document/d/1RaTEjQY1qFWOhNAK7n3lyUoXX9E8lRJ9JatRp05sNG4/template/preview?resourcekey=0-kFO66RukJ-dtCmD-QvJc3w)
+
+[Project Proposal](https://docs.google.com/document/d/1Teq5Y1sEBbf_kULYYlUq6-WC1G8f90bYoyQtIHVvJXg/template/preview)  
