@@ -23,7 +23,7 @@ The certification is composed of 7 core technical courses and a career preparati
 
 | Course | Module Title | Focus Area | Duration |
 | :--- | :--- | :--- | :--- |
-| **01** | **Foundations of Data Science** | Project Scoping & Data Ethics | 15 Hours |
+| **01** | [**Foundations of Data Science**](https://github.com/hgabrali/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/01_Foundation%20of%20Data%20Science.md) | Project Scoping & Data Ethics | 15 Hours |
 | **02** | **Get Started with Python** | Syntax, Data Structures & Algorithms | 24 Hours |
 | **03** | **Go Beyond the Numbers: Translate Data into Insights** | EDA (Exploratory Data Analysis) & Visualization | 27 Hours |
 | **04** | **The Power of Statistics** | Probability & Statistical Inference | 31 Hours |
