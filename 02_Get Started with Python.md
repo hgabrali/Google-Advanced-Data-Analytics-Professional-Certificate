@@ -63,7 +63,7 @@ When the Roman Emperor Constantine accepted Christianity, the populace was still
 
 ## Comparative Analysis of Traditions
 
-| Feature | NARDUGAN (Turkic/Sumerian) | YULE (Germanic/Norse) | CHRISTMAS (Christian/Modern) |
+| Feature | NARDUGAN (Turkic/Sumerian) (3000 BC and earlier) | YULE (Germanic/Norse) (Iron Age - 4th Century AD) | CHRISTMAS (Christian/Modern) (4th Century AD - Present) |
 | :--- | :--- | :--- | :--- |
 | **Primary Theme** | The victory of Light (Ülgen) over Darkness (Erlik); The rebirth of the Sun. | The return of the Sun; The Wild Hunt; Hunting season and fertility. | The birth of Jesus Christ; Peace and Goodwill. |
 | **Dates** | Dec 21-22 (Solstice). | Dec 21 - Jan 1 (12 Days). | Dec 25 (Fixed date). |
