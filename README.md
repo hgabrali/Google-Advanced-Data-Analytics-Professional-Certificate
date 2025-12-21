@@ -15,6 +15,7 @@ I have utilized industry-standard platforms and libraries to execute the full da
 * **Visualization:** Tableau, Matplotlib, Seaborn
 * **Analysis & Modeling:** Pandas, NumPy, Scikit-learn, Statsmodels
 
+[Advanced Data Analytics Certificate glossary](https://docs.google.com/document/d/193-AtS7MlB2w4buwiCyPjBoOhIbbByKgHWPpYnSR9VI/template/preview)
 ---
 
 ## 📚 Curriculum Structure
