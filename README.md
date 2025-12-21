@@ -4,6 +4,9 @@
 ## Program Overview
 This repository documents my journey and projects completed as part of the **Google Advanced Data Analytics Professional Certificate**. This rigorous program, developed exclusively by Google experts, consists of over **200 hours of instruction** and hundreds of practice-based assessments.
 
+<img width="983" height="322" alt="image" src="https://github.com/user-attachments/assets/c5ce1d19-e60f-420c-b414-c4e73c098870" />
+
+
 The curriculum is designed to simulate **real-world advanced data analytics scenarios**, replicating the challenges faced by data professionals in the workplace. Through a combination of hands-on labs, interactive assessments, and video tutorials, I have acquired key technical skills required for advanced roles in data science and analytics.
 
 ---
